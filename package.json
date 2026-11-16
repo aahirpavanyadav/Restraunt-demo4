@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-demo4",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Modern Local Restaurant Website",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "restaurant",
+    "food",
+    "local-business",
+    "dark-mode",
+    "responsive"
+  ],
+  "author": "Antigravity",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "autoprefixer": "^10.6.2",
+    "jsdom": "^31.0.1",
+    "lucide": "^1.73.0",
+    "postcss": "^8.5.33",
+    "tailwindcss": "^4.3.5",
+    "vite": "^8.3.8"
+  }
+}
